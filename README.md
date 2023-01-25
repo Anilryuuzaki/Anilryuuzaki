@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AnilKumarGantipilli
-- 👀 I’m interested in ...Web Development, Python 
-- 🌱 I’m currently learning Full stack Web Development, Data structures and Algorithms in Python
+- 👋 Hi, I’m AnilKumar Gantipilli
+- 👀 I’m interested in .. Python, .Web Development 
+- 🌱 I’m currently learning Data structures and Algorithms in Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Anilkumargantipilli@gmail.com
 
